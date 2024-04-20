@@ -1,4 +1,4 @@
-prototype android application built in a few days, held together by ducktape
+prototype android app built in a few days from scratch, held together by ducktape
 
 i made this since I realized amie was only on ios, and pitched them this
 
